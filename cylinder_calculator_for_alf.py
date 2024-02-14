@@ -11,8 +11,8 @@ print("CYLINDER VOLUME CALCULATOR FOR ALF")
 
 
 # - Asking the user for his/her desire value for the radius and height of the cylinder
-radius_value_from_the_user = float(input("Enter a number for the value of radius of the cylinder:"))
-height_value_from_the_user = float(input("Enter a number for the value of height of the cylinder:"))
+radius_value_from_the_user = float(input("Enter a number for the cylinder's radius:"))
+height_value_from_the_user = float(input("Enter a number for the cylinder's height:"))
 
 
 # - Calculating the volume of the cylinder using the formula V = πr^2h.
