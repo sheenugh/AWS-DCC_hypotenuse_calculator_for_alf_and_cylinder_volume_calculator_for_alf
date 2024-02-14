@@ -5,7 +5,7 @@ from math import sqrt
 # - Printing the 'HYPOTENUSE CALCULATOR FOR ALF"
 print("HYPOTENUSE CALCULATOR FOR ALF")
 
-# - Asking user for the value of the two legs of the right triangle
+# - Asking the user for his/her desire value for the two legs of the right triangle
 opposite_side = float(input("Enter a number for the length of opposite side:"))
 adjacent_side = float(input("Enter a number for the length of adjacent side:"))
 
