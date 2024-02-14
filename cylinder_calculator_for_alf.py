@@ -3,22 +3,7 @@
 
 
 # ========== PSEUDO CODE ==========
-# - Askin
-# Write the code ↓ to read the radius and height of a cylinder from the user.
-# Be cautious when reading input of various data types.
-
-
-
-
-
-
-# Write the code ↓ to calculate the volume of the cylinder using the formula V = πr^2h.
-# Formula to calculate the volume (V) of a cylinder:
-# V = π * r^2 * h
-
-
-
-
-
-# Write the code ↓ to display the calculated volume with 2 decimal places.
-# Select and employ a string concatenation method based on your personal preference and comfort level.
+# - Printing 'CYLINDER VOLUME CALCULATOR FOR ALF'
+# - Asking the user for his/her desire value for the radius and height of the cylinder
+# - Calculating the volume of the cylinder using the formula V = πr^2h.
+# - Displaying the the calculated volume with 2 decimal places.
